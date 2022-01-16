@@ -2,7 +2,7 @@
 
 
 
-Array-1
+**Array-1**
 
 Problem 1
 
@@ -16,7 +16,7 @@ Problem 3
 
 https://leetcode.com/problems/spiral-matrix/
 
-Array-2
+**Array-2**
 
 
 Problem1 (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
